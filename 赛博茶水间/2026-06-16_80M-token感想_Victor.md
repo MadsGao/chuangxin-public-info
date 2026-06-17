@@ -7,6 +7,7 @@ tags:
   - 吐槽
   - token消耗
 featured: true
+status: "已审批"
 ---
 
 今天烧了 8000 万 token。
